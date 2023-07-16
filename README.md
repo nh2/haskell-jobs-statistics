@@ -2,7 +2,7 @@
 
 This repo collects analyses of the Haskell jobs market.
 
-Summary: **The Haskell job market has been growing since 2008.**
+Summary: **The Haskell job market has been growing steadily since 2008.**
 
 ## Reddit `/r/haskell`
 
