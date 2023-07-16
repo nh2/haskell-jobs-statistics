@@ -2,6 +2,8 @@
 
 This repo collects analyses of the Haskell jobs market.
 
+Summary: **The Haskell job market has been growing since 2008.**
+
 ## Reddit `/r/haskell`
 
 In 2023-01-12 I gave a beginner talk at the Zurich [HaskellerZ](https://zfoh.ch/) meetup, teaching how to use the Reddit API ([code](https://github.com/nh2/haskell-reddit-jobs-counter)).
